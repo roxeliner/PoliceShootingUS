@@ -10,7 +10,7 @@ This repository contains the Capstone Project for the first Sprint of the Data A
 - To draw insights that can help inform policy and operational changes within law enforcement agencies.
 
 ## Dataset
-The primary dataset used in this project is the "Fatal Police Shootings in the U.S. '15 - '17". Additional datasets have been sourced to enrich the analysis. The datasets are available [here](<dataset_link>).
+The primary dataset used in this project is the "Fatal Police Shootings in the U.S. '15 - '17". Additional datasets have been sourced to enrich the analysis. The datasets are available [here](https://www.kaggle.com/datasets/washingtonpost/police-shootings).
 
 ## Methodology
 - **Data Cleaning and Feature Engineering:** Implemented Pandas to clean data and engineered features to aid in the analysis.
